@@ -12,7 +12,7 @@ Bu proje, Java dilinde geliştirilmiş basit bir **Otel Yönetim Uygulamasıdır
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Java
+- Java 
 - Java Swing (Arayüz için)
 - JDBC (Veritabanı bağlantısı için)
 - MySQL (Veritabanı)
